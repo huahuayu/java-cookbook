@@ -3147,9 +3147,7 @@ spring.autoconfigure.exclude=org.springframework.boot.autoconfigure.jdbc.DataSou
 | guru99的文字版教程 | 英文 | https://www.guru99.com/java-tutorial.html | 整理的很好，讲到底层原理，例子不够       |
 | w3school java教程  | 英文 | https://www.w3schools.com/java/           | 交互式体验，可以在线运行，还有一些小例子 |
 | Java编程语言基础   | 中文 | https://www.shiyanlou.com/courses/1230    | 详略得当，在线交互式体验，入门好材料     |
-|                    |      |                                           |                                          |
 | Springboot quick start   | 英文 | https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x    | 精心制作的springboot视频教程（youtube），每个视频很短，适合springboot入门     |
-|                    |      |                                           |                                          |
 
 ## java面试
 常见面试问题和解答 https://www.guru99.com/java-interview-questions-answers.html
